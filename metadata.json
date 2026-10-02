@@ -1,0 +1,6 @@
+{
+  "name": "LocalMock Engine - Senior ML/MLOps Interviewer",
+  "description": "Adaptive dual-agent technical interview platform evaluating Machine Learning & MLOps engineers with real-time dynamic difficulty adjustment and structured critique telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
